@@ -43,7 +43,7 @@
     "precommit": "lint-staged",
     "lint": "eslint --ignore-path .gitignore --ignore-pattern \"!**/.*\" . && stylelint \"./src/**/*.js\"",
     "fix": "eslint --ignore-path .gitignore --ignore-pattern \"!**/.*\" --fix .",
-    "build": "node ./setup && react-scripts build && node ./render",
+    "build": "node ./setup && react-scripts build",
     "deploy": "node ./setup && react-scripts build",
     "start": "node ./setup && react-scripts start"
   }
