@@ -8,7 +8,6 @@ const getCellIndex = (rowIndex, collIndex) => {
 
 const convertCells = gameCells => {
   const convertedCells = [];
-  console.log(gameCells);
   for (let i = 0; i < gameCells.length; i += 3) {
     const row = [];
     for (let j = i; j < i + 3; j++) {
