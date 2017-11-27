@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 ## Description
-Unbeatable tic-tac-toe game on a 3x3 board.
+Unbeatable tic-tac-toe game on a 3x3 board. <br>
 You can see demo https://tic-tac-toe-react-michael.herokuapp.com/
 
 ## Requirements
